@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio_new/static/css/main.5defa3f2.css",
+    "main.js": "/portfolio_new/static/js/main.cf687fc8.js",
+    "static/media/Weather.png": "/portfolio_new/static/media/Weather.cb2559d8936aa55fea00.png",
+    "static/media/Natours.png": "/portfolio_new/static/media/Natours.a5bd36815338eac4c258.png",
+    "static/media/Social_network.png": "/portfolio_new/static/media/Social_network.2b22ca47aab981bdfc18.png",
+    "static/media/Dhikshith_Resume.pdf": "/portfolio_new/static/media/Dhikshith_Resume.9951fd90c1993b731474.pdf",
+    "static/media/dhikshith.jpeg": "/portfolio_new/static/media/dhikshith.2911a712a4f7d5d232e6.jpeg",
+    "static/media/Shopify.jpeg": "/portfolio_new/static/media/Shopify.bb5ea160c564aac47e6c.jpeg",
+    "static/media/Feedbackpng.png": "/portfolio_new/static/media/Feedbackpng.9f5287f8ef8d13a2616c.png",
+    "static/media/PerkClothing.jpeg": "/portfolio_new/static/media/PerkClothing.6f89dc2b607398edd070.jpeg",
+    "static/media/pre.svg": "/portfolio_new/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio_new/index.html",
+    "main.5defa3f2.css.map": "/portfolio_new/static/css/main.5defa3f2.css.map",
+    "main.cf687fc8.js.map": "/portfolio_new/static/js/main.cf687fc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5defa3f2.css",
+    "static/js/main.cf687fc8.js"
+  ]
+}
